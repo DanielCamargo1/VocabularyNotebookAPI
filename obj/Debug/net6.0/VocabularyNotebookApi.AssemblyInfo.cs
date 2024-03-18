@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VocabularyNotebookApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a5d7ae87a361831ece3c1c912245fc9721f238")]
 [assembly: System.Reflection.AssemblyProductAttribute("VocabularyNotebookApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VocabularyNotebookApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

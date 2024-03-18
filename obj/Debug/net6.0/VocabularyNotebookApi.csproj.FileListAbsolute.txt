@@ -40,3 +40,4 @@ C:\Users\danid\Desktop\CursoMvc\VocabularyNotebookApi\VocabularyNotebookApi\obj\
 C:\Users\danid\Desktop\CursoMvc\VocabularyNotebookApi\VocabularyNotebookApi\obj\Debug\net6.0\VocabularyNotebookApi.pdb
 C:\Users\danid\Desktop\CursoMvc\VocabularyNotebookApi\VocabularyNotebookApi\obj\Debug\net6.0\VocabularyNotebookApi.genruntimeconfig.cache
 C:\Users\danid\Desktop\CursoMvc\VocabularyNotebookApi\VocabularyNotebookApi\obj\Debug\net6.0\ref\VocabularyNotebookApi.dll
+C:\Users\danid\Desktop\CursoMvc\VocabularyNotebookApi\VocabularyNotebookApi\obj\Debug\net6.0\VocabularyNotebookApi.sourcelink.json

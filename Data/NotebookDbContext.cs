@@ -9,6 +9,6 @@ namespace VocabularyNotebookApi.Data
 
         }
 
-        DbSet<NotebookModel> Notebook { get; set; }
+        DbSet<NotebookModel> Words { get; set; }
     }
 }
